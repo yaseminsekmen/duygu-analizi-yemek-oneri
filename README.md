@@ -41,3 +41,8 @@ Proje, **BERT tabanlı duygu analizi**, **TF-IDF vektörleştirme**, ve **kosin�
 
 ---
 
+📂 Veri Seti Kaynağı
+Bu projede kullanılan yemek tarifleri ve besin değerleri veri seti şu kaynaktan alınmıştır:
+🔗 Kaggle: Food Recipe and Dataset with Nutritional Values
+Veri seti Mehmet Uslu tarafından sağlanmıştır. Bu proje kapsamında sadece Türkçe içeriklere odaklanılmış, duygu analizi etiketleri tarafımızdan oluşturulmuştur.
+

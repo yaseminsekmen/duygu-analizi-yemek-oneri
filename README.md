@@ -41,6 +41,14 @@ Proje, **BERT tabanlı duygu analizi**, **TF-IDF vektörleştirme**, ve **kosin�
 
 ---
 
+## 📌 Kurulum
+
+```bash
+pip install streamlit transformers scikit-learn pandas
+
+Streamlit uygulamasını çalıştırmak için:
+streamlit run tarif.py
+
 📂 Veri Seti Kaynağı
 Bu projede kullanılan yemek tarifleri ve besin değerleri veri seti şu kaynaktan alınmıştır:
 🔗 Kaggle: Food Recipe and Dataset with Nutritional Values
